@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.imageViewSMS).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                composeSmsMesseage("Pesan dari SMK Telkom");
+                composeSmsMesseage("Pesan dari SMK Telkom Malang");
             }
         });
 
